@@ -1,6 +1,6 @@
 # 📊 Dashboard Project
 
-![Dashboard Screenshot](Screenshot%202026-10-27%20200634.png)
+![Dashboard Screenshot](Screenshot%202026-10-27%20200634)
 
 > **وصف مختصر للمشروع:** لوحة تحكم (Dashboard) تفاعلية لعرض وتحليل البيانات وإدارة العمليات بشكل سلس وجذاب.
 
