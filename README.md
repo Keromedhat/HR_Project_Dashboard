@@ -1,7 +1,8 @@
 # 📊 Dashboard Project
 
-![Dashboard Screenshot](Screenshot%202026-10-27%20200634)
+# 📊 HR Project Dashboard
 
+![Dashboard Screenshot](./DataSet/Screenshot%202026-10-27%20200634.png)
 > **وصف مختصر للمشروع:** لوحة تحكم (Dashboard) تفاعلية لعرض وتحليل البيانات وإدارة العمليات بشكل سلس وجذاب.
 
 ---
